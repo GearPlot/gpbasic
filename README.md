@@ -77,7 +77,7 @@ GearPlot BASIC is still in development and currently on it's 9th reveision since
 | ![Image 1](https://raw.githubusercontent.com/GearPlot/gpbasic/refs/heads/main/screenshots/FreeDOS_gpBASIC.png) | ![Image 2](https://raw.githubusercontent.com/GearPlot/gpbasic/refs/heads/main/screenshots/AROS_gpBASIC.png) |
 | DOS | AROS |
 
-[More screenshots](https://example.com)
+[More screenshots](https://github.com/GearPlot/gpbasic/tree/main/screenshots)
 
 <br>
 <br>
