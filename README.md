@@ -28,6 +28,10 @@ Because of this the original script lacked a lot of common BASIC functions.
 - "FREAD" - Read a line from a file.
 - "FEOF" - Check for end of file.
 - Command line execution of scripts.
+- "RANDOM" - Generates pseudo-random numbers.
+- "RANDOMIZE" - Initializes or resets the random number generator seed.
+- "TIMER" - Returns the number of seconds that have elapsed.
+- "INT" - Calculates the largest integer that is less than or equal to a given numeric expression.
 <br>
 <br>
 
