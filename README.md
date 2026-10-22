@@ -66,3 +66,18 @@ GearPlot BASIC is still in development and currently on it's 9th reveision since
 
 <br>
 <br>
+
+
+## 📸 Screenshots
+<br>
+
+| Linux | Haiku |
+| :---: | :---: |
+| ![Image 1](https://raw.githubusercontent.com/GearPlot/gpbasic/refs/heads/main/screenshots/Linux_gpBASIC.png) | ![Image 2](https://raw.githubusercontent.com/GearPlot/gpbasic/refs/heads/main/screenshots/Haiku_gpBASIC.png) |
+| ![Image 1](https://raw.githubusercontent.com/GearPlot/gpbasic/refs/heads/main/screenshots/FreeDOS_gpBASIC.png) | ![Image 2](https://raw.githubusercontent.com/GearPlot/gpbasic/refs/heads/main/screenshots/AROS_gpBASIC.png) |
+| DOS | AROS |
+
+[More screenshots](https://example.com)
+
+<br>
+<br>
