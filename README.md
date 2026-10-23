@@ -43,6 +43,8 @@ I have been able to compile and run GearPlot BASIC on the following systems.
 
 <br>
 
+- MacOS
+
 - Linux (32bit and 64bit)
 
 - DOS
@@ -75,11 +77,14 @@ GearPlot BASIC is still in development and currently on it's 9th reveision since
 ## 📸 Screenshots
 <br>
 
-| Linux | Haiku |
+| MacOS | Linux |
 | :---: | :---: |
-| ![Image 1](https://raw.githubusercontent.com/GearPlot/gpbasic/refs/heads/main/screenshots/Linux_gpBASIC.png) | ![Image 2](https://raw.githubusercontent.com/GearPlot/gpbasic/refs/heads/main/screenshots/Haiku_gpBASIC.png) |
-| ![Image 1](https://raw.githubusercontent.com/GearPlot/gpbasic/refs/heads/main/screenshots/FreeDOS_gpBASIC.png) | ![Image 2](https://raw.githubusercontent.com/GearPlot/gpbasic/refs/heads/main/screenshots/AROS_gpBASIC.png) |
-| DOS | AROS |
+| ![Image 1](https://raw.githubusercontent.com/GearPlot/gpbasic/refs/heads/main/screenshots/MacOS_gpBASIC.png) | ![Image 2](https://raw.githubusercontent.com/GearPlot/gpbasic/refs/heads/main/screenshots/Linux_gpBASIC.png) |
+| Haiku | DOS |
+| ![Image 1](https://raw.githubusercontent.com/GearPlot/gpbasic/refs/heads/main/screenshots/Haiku_gpBASIC.png) | ![Image 2](https://raw.githubusercontent.com/GearPlot/gpbasic/refs/heads/main/screenshots/FreeDOS_gpBASIC.png) |
+| AROS |  |
+| ![Image 1](https://raw.githubusercontent.com/GearPlot/gpbasic/refs/heads/main/screenshots/AROS_gpBASIC.png) |  |
+
 
 [More screenshots](https://github.com/GearPlot/gpbasic/tree/main/screenshots)
 
