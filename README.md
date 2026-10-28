@@ -68,8 +68,8 @@ I have been able to compile and run GearPlot BASIC on the following systems.
 ## Development Progress
 
 <br>
-GearPlot BASIC is still in development and currently on it's 9th reveision since starting.
-
+GearPlot BASIC is still in development and currently on it's 10th revision since starting.
+ 
 <br>
 <br>
 <br>
