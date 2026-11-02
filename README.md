@@ -78,6 +78,13 @@ GearPlot BASIC is still in development and currently on it's 10th revision since
 ## 📸 Screenshots
 <br>
 
+
+
+https://github.com/user-attachments/assets/48d7d831-3c63-4bca-b965-71ed85cd3744
+
+
+
+
 | MacOS | Linux |
 | :---: | :---: |
 | ![Image 1](https://raw.githubusercontent.com/GearPlot/gpbasic/refs/heads/main/screenshots/MacOS_gpBASIC.png) | ![Image 2](https://raw.githubusercontent.com/GearPlot/gpbasic/refs/heads/main/screenshots/Linux_gpBASIC.png) |
