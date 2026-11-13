@@ -43,6 +43,10 @@ Some of the features introduced and implemented in GearPlot BASIC include:
 | `INSTR` | locates the position of a substring within a larger string. |
 | `UCASE$` | Lowercase alphabetic characters converted to uppercase. |
 | `LCASE$` | Uppercase alphabetic characters converted to lowercase |
+| `DATE` / `DATE$` | Directly prints the current system date with control over formatting. |
+| `TIME` / `TIME$` | Directly prints the current system time with control over formatting. |
+| `BORDER` | Draws single-line or double-line custom borders to ensure correct cross-platform display. |
+| `BOX` | Draws single or double-line bordered boxes between two coordinates. Automatically adapts to the host operating system. |
 
 Additional improvements include:
 
@@ -65,13 +69,14 @@ The following operating systems have been successfully compiled and tested:
 - **DOS**
 - **Haiku OS** – 32-bit and 64-bit
 - **AROS** – ABIv0, 32-bit
+- **ReactOS**
 
 ### ⚠️ Experimental / Unsuccessful Platforms
 
 The following operating systems have been tested, but GearPlot BASIC did not function correctly:
 
-- **ReactOS** – The DOS version launched, but further interaction and program execution were unsuccessful.
-- **KolibriOS** – The interpreter compiled and launched, but could not be used successfully.
+- **KolibriOS** – The interpreter compiled and launched. Improvements have been made but still a lot of bugs to work out.
+- **Redox OS** – Attempts have been made to compile, but have been unsuccessful.
 
 These platforms may be revisited in future development.
 
@@ -79,7 +84,7 @@ These platforms may be revisited in future development.
 
 ## 🛠️ Development Progress
 
-GearPlot BASIC remains an actively developed project, currently on its **10th revision**.
+GearPlot BASIC remains an actively developed project, currently on its **11th revision**.
 
 Every revision has been developed through a hands-on, incremental process. I personally modify the interpreter's source code, introducing a small number of new features, improvements, or fixes at a time.
 
@@ -127,3 +132,5 @@ https://github.com/user-attachments/assets/48d7d831-3c63-4bca-b965-71ed85cd3744
 *One language. Multiple platforms. No unnecessary complexity.*
 <br>
 <br>
+
+updated on: 2026-11-13
