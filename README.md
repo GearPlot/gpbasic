@@ -70,6 +70,8 @@ The following operating systems have been successfully compiled and tested:
 - **Haiku OS** – 32-bit and 64-bit
 - **AROS** – ABIv0, 32-bit
 - **ReactOS**
+- **FreeBSD**
+
 
 ### ⚠️ Experimental / Unsuccessful Platforms
 
@@ -133,4 +135,4 @@ https://github.com/user-attachments/assets/48d7d831-3c63-4bca-b965-71ed85cd3744
 <br>
 <br>
 
-updated on: 2026-11-13
+updated on: 2026-11-20
